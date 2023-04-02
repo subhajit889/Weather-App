@@ -2,6 +2,10 @@
 App Overview:-
 This is a simple weather app built using React and the OpenWeather API. The app allows users to search for the weather in a specific city and see the current temperature, description, and a 5-day forecast. Users can also toggle between Celsius and Fahrenheit temperature units.
 
+**************************************************************************************************************************************************************************************
+
+You can view the app from here:- https://weather-app-sable-zeta.vercel.app/
+
 ***************************************************************************************************************************************************************************************
 
 Usage:-
@@ -43,6 +47,3 @@ Once you have your API key, create a ".env.local" file in the project root direc
 This will allow the app to access your API key in the "process.env.process.env.REACT_APP_WEATHER_API_KEY" variable.
 
 ***************************************************************************************************************************************************************************************
-
-You can use my API key for reference :- 47d323bf2e70ff4a52e00dcbb5fe07bf
-but for future use you need a API key.
