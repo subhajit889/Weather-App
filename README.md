@@ -23,10 +23,11 @@ Ans:- Axios is used to make a GET request to the OpenWeatherMap API, which provi
 Installation and Setup:-
 For run this file locally follow the steps-
 1. To run the app, first clone the repository: 
-    git clone https://github.com/subhajit889/Weather-App.git
+    "git clone https://github.com/subhajit889/Weather-App.git"
+    
 2. Then, navigate to the project directory and install the dependencies:
-    cd weather-app
-    npm install
+    "cd Weather-App" & "npm install"
+    
 3. To run the app in development mode, use the following command:
     npm start
 
@@ -42,3 +43,6 @@ Once you have your API key, create a ".env.local" file in the project root direc
 This will allow the app to access your API key in the "process.env.process.env.REACT_APP_WEATHER_API_KEY" variable.
 
 ***************************************************************************************************************************************************************************************
+
+You can use my API key for reference :- 47d323bf2e70ff4a52e00dcbb5fe07bf
+but for future use you need a API key.
